@@ -1,0 +1,14 @@
+E:\Codegym\c# start\MenuApp\bin\Debug\net8.0\MenuApp.exe
+E:\Codegym\c# start\MenuApp\bin\Debug\net8.0\MenuApp.deps.json
+E:\Codegym\c# start\MenuApp\bin\Debug\net8.0\MenuApp.runtimeconfig.json
+E:\Codegym\c# start\MenuApp\bin\Debug\net8.0\MenuApp.dll
+E:\Codegym\c# start\MenuApp\bin\Debug\net8.0\MenuApp.pdb
+E:\Codegym\c# start\MenuApp\obj\Debug\net8.0\MenuApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codegym\c# start\MenuApp\obj\Debug\net8.0\MenuApp.AssemblyInfoInputs.cache
+E:\Codegym\c# start\MenuApp\obj\Debug\net8.0\MenuApp.AssemblyInfo.cs
+E:\Codegym\c# start\MenuApp\obj\Debug\net8.0\MenuApp.csproj.CoreCompileInputs.cache
+E:\Codegym\c# start\MenuApp\obj\Debug\net8.0\MenuApp.dll
+E:\Codegym\c# start\MenuApp\obj\Debug\net8.0\refint\MenuApp.dll
+E:\Codegym\c# start\MenuApp\obj\Debug\net8.0\MenuApp.pdb
+E:\Codegym\c# start\MenuApp\obj\Debug\net8.0\MenuApp.genruntimeconfig.cache
+E:\Codegym\c# start\MenuApp\obj\Debug\net8.0\ref\MenuApp.dll
